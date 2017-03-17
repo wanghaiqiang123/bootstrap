@@ -1,1 +1,1 @@
-# dome
+#bootstrap +swiper
